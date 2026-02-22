@@ -1,3 +1,4 @@
+// ques 1
 #include<stdio.h>
 typedef struct 
 {
@@ -55,3 +56,4 @@ complex Mul(complex a, complex b)
     r.imag = (a.real*b.imag)+(a.imag*b.real);
     return r;
 }
+// ques 2
